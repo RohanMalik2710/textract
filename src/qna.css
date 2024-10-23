@@ -1,0 +1,16 @@
+.neon-text {
+    color: #fff; /* Text color white */
+    text-shadow: 0 0 2px #000, 0 0 3px #000; /* Lighter and smaller black glow */
+}
+
+  
+  .neon-border {
+    /* Use the same dark pink/red color */
+    /* Apply the same glow */
+  }
+  
+  .glass-effect {
+    background: rgba(0, 0, 0, 0.5); /* Darker background for a more aesthetic look */
+    backdrop-filter: blur(10px);
+  }
+  
